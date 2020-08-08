@@ -1,7 +1,10 @@
 ## 网络协同编辑小例子
 
-主要使用nodejs+websocket实现，可以实现不同房间共同编辑，代码比较粗糙，主要是为了实现[XYNotes](https://github.com/xygengcn/XYNotes)部分功能实现的小例子。
+主要使用nodejs+websocket实现，可以实现不同房间共同编辑，代码比较粗糙，便于学习，主要是为了实现[XYNotes](https://github.com/xygengcn/XYNotes)部分功能实现的小例子。
 
+[Github](https://github.com/xygengcn/share-edit)
+
+![](screenshot.png)
 
 ## 运行
 
